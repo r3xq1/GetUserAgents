@@ -6,6 +6,10 @@
     using System.Linq;
     using System.Management;
     using Microsoft.Win32;
+     
+     /*                       /* 
+         Разработчик: r3xq1 
+     */                       /* 
 
     public static class UserAgent
     {
